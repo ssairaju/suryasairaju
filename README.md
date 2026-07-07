@@ -2,8 +2,8 @@
 
 <div align="center">
 
-### Senior Solution Architect | Java Enterprise Architect | Cloud & AI Enthusiast
-
+Senior Solution Architect | Java Enterprise Architect | Cloud & AI Enthusiast
+<p></p>
 Building scalable enterprise applications, cloud-native platforms, and AI-powered solutions.
 
 </div>
