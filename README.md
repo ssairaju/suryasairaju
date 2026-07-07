@@ -105,24 +105,6 @@ Cloud-native architecture with:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ssairaju&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ssairaju&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssairaju&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🏆 Expertise
 
 * Enterprise Solution Architecture
